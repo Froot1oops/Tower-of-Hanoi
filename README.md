@@ -3,6 +3,6 @@ The Tower of Hanoi is a famous mathematical puzzle that consists of three nods a
 
 Language: C
 
--Uses command line arguments from user to get the number of disks
--Recursion is used to move the disks from node to node 
--Solution is sent to a display function which prints out the nodes and disks
+Uses command line arguments from user to get the number of disks
+Recursion is used to move the disks from node to node 
+Solution is sent to a display function which prints out the nodes and disks
